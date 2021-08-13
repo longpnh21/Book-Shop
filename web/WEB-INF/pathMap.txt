@@ -1,0 +1,12 @@
+login LoginServlet
+createAccount CreateAccountServlet
+logout LogoutServlet
+cart CartServlet
+search SearchServlet
+checkout CheckOutServlet
+updateAccount UpdateAccountServlet
+deleteAccount DeleteAccountServlet
+removeBook RemoveBookServlet
+startup StartupServlet
+history PurchaseHistoryServlet
+createBook CreateBookServlet
